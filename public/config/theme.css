@@ -1,0 +1,13 @@
+:root {
+  --primary: #ffffff;
+  --primary-text: #000;
+  --secondary: #ffffff;
+  --secondary-text: #ffffff;
+  --accent: #000;
+  --accent-text: #ffffff;
+  --web-theme:#ffffff;
+}
+
+body{
+  background-color: rgba(0,0,0, 0.8);
+}
