@@ -14,7 +14,6 @@ export const Body = styled.div`
 
   :after{
   content: "";
-  background-image: url('config/images/bg.png') ;
   background-size: cover;
   background-position: 100% 100%;
   opacity: 0.2;
@@ -120,10 +119,6 @@ export const StyledClickable = styled.div`
   }
 `;
 
-export const line = styled.hr`
-width:100%;
-color:#e0e0e0;
-`;
 
 export const row = styled.div`
 display:grid;
