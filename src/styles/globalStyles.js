@@ -196,12 +196,12 @@ export const connectButton = styled.button`
   width:100%;
   padding:10px;
   background-color: rgb(56 56 56);
-  color: #f6a307;
+  color: #ffffff;
   font-family: 'Montserrat';
   font-style: Bold;
   text-align:center;
   font-size:1.6rem;
-  border: 1px solid #f6a307;
+  border: 1px solid #ffffff;
   border-radius:8px;
   cursor:pointer;
   transition: all 0.5s;
@@ -209,7 +209,7 @@ export const connectButton = styled.button`
 
 export const maxButton = styled.button`
   width:25%;
-  color: #F6A307;
+  color: #ffffff;
   border: deeppink;
   border: 1px solid rgb(246 163 7 / 75%);
   background: #76767638;
