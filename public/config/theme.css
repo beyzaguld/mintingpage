@@ -5,9 +5,9 @@
   --secondary-text: #ffffff;
   --accent: #505050;
   --accent-text: #ffffff;
-  --web-theme:#F6A307;
+  --web-theme:#ffffff;
 }
 
 body{
-  background-color: rgba(0,0,0, 0.8);
+  background-color: rgba(0,0,0, 0);
 }
