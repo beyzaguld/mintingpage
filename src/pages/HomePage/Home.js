@@ -267,6 +267,7 @@ function Home() {
           ) : (
             <s.connectButton
                       style={{
+                        font: 'syne',
                         textAlign: "center",
                         color: "var(--web-theme)",
                         cursor:"pointer",
@@ -277,7 +278,7 @@ function Home() {
                           getData();
                         }}
                     >
-                      Connect to Wallet
+                      Connect Your Wallet
                     </s.connectButton>
           )}
 

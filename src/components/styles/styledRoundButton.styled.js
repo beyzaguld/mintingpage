@@ -4,7 +4,7 @@ export const StyledRoundButton = styled.button`
   border: none;
   padding: 10px;
   font-size: 1.5rem;
-  color: #d3d3d3;
+  color: #ffffff;
   width: 10px;
   height: 10px;
   cursor: pointer;

@@ -17,8 +17,8 @@ export const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: #d3d3d3;
-  color: #d3d3d34cf;
+  color: #ffffff;
+  color: #ffffff4cf;
   font-family: 'syne';
 
   

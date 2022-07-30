@@ -65,7 +65,7 @@ display:none;
     transform:translate(-100%,150%);
     fontSize:1.5rem;
     cusror: pointer;
-    color: #d3d3d3;
+    color: #ffffff;
     z-index:1;
   }
 `;
@@ -118,7 +118,7 @@ export const NavMenu = styled.ul`
 
   export const NavLink = styled(LinkS)`
     text-decoration:none;
-    color:#d3d3d3;
+    color:#ffffff;
     align-items:center;
     height:100%;
     padding:0 1rem;

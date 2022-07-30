@@ -1,11 +1,11 @@
 :root {
-  --primary: #d3d3d3;
+  --primary: #ffffff;
   --primary-text: #000000;
-  --secondary: #d3d3d3;
-  --secondary-text: #d3d3d3;
+  --secondary: #ffffff;
+  --secondary-text: #ffffff;
   --accent: rgb(0,0,0,0);
-  --accent-text: #d3d3d3;
-  --web-theme:#d3d3d3;
+  --accent-text: #ffffff;
+  --web-theme:#ffffff;
 }
 
 body{

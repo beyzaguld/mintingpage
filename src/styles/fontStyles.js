@@ -1,10 +1,10 @@
 import { createGlobalStyle } from "styled-components";
-import rubik from "./fonts/rubik.ttf";
+import syne from "./fonts/syne-bold.ttf";
 const FontStyles = createGlobalStyle`
 
 @font-face {
   font-family: 'syne';
-  src: url(${rubik}) format('truetype');
+  src: url(${syne}) format('truetype');
   font-style: normal;
 }
 `;

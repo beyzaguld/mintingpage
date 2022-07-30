@@ -82,7 +82,7 @@ export const AmountContainer = styled.div`
 `;
 
 export const TextTitle = styled.p`
-  color: ${({color}) => color ? color : "#d3d3d3"};
+  color: ${({color}) => color ? color : "#ffffff"};
   font-size:1.8rem;
   font-weight: 500;
   line-height: 1.6;
@@ -92,14 +92,14 @@ export const TextTitle = styled.p`
 `;
 
 export const TextSubTitle = styled.p`
-  color: ${({color}) => color ? color : "#d3d3d3"};
+  color: ${({color}) => color ? color : "#ffffff"};
   font-size: ${({size}) => size ? size+"rem" : "1.5rem"};
   font-family: 'syne';
   text-align:${({align}) => align ? align : "center"};
 `;
 
 export const TextDescription = styled.p`
-  color: ${({color}) => color ? color : "#d3d3d3"};
+  color: ${({color}) => color ? color : "#ffffff"};
   font-size: ${({size}) => size ? size : "1.5rem"};
   line-height: 1.6;
   font-family: 'syne';
@@ -121,7 +121,7 @@ export const StyledClickable = styled.div`
 
 export const line = styled.hr`
 width:100%;
-color:#d3d3d3;
+color:#ffffff;
 `;
 
 export const row = styled.div`
@@ -195,7 +195,7 @@ export const connectButton = styled.button`
   width:100%;
   padding:10px;
   background-color: #7931ff;
-  color: #d3d3d3;
+  color: #ffffff;
   font-family: 'syne';
   font-style: Bold;
   text-align:center;
@@ -208,7 +208,7 @@ export const connectButton = styled.button`
 
 export const maxButton = styled.button`
   width:25%;
-  color: #d3d3d3;
+  color: #7931ff;
   
   border: 3px solid #7931ff;
   background-color: rgb(0,0,0,0);
