@@ -194,13 +194,13 @@ export const FlexContainer = styled.div`
 export const connectButton = styled.button`
   width:100%;
   padding:10px;
-  background-color: #7931ff;
+  background-color: #3f74fc;
   color: #ffffff;
   font-family: 'syne';
   font-style: Bold;
   text-align:center;
   font-size:1.6rem;
-  border: 1px solid #7931ff;
+  border: 1px solid #3f74fc;
   border-radius:8px;
   cursor:pointer;
   transition: all 0.5s;
@@ -208,9 +208,9 @@ export const connectButton = styled.button`
 
 export const maxButton = styled.button`
   width:25%;
-  color: #7931ff;
+  color: #3f74fc;
   
-  border: 3px solid #7931ff;
+  border: 3px solid #3f74fc;
   background-color: rgb(0,0,0,0);
   height:50px;
   border-radius:10px;
